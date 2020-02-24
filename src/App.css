@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans|Merriweather&display=swap");
+
+.App {
+  background-color: navy;
+  height: 100vh;
+  padding: 1rem;
+  margin: 0 auto;
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.icon {
+  width: 25%;
+}
